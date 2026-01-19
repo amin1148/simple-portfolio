@@ -10,6 +10,18 @@ const hardSkills: HardSkill[] = [
     description: "Expertise in Tech Packs, T&A, Costing, Fabric Consumption, Lab-Dips, Strike-offs, and end-to-end Production (Marker to Shipment).",
     icon: "astro_dark" 
   },
+  {
+    name: "Microsoft Excel",
+    description: "Advanced proficiency for Quantity Breakdowns, Packing Lists, and Cost Sheets.",
+    category: "Software & Tools",
+    icon: "file-excel-2-line"
+  },
+  {
+    name: "ERP Systems",
+    description: "Experience managing order lifecycles and inventory within Enterprise Resource Planning software.",
+    category: "Software & Tools",
+    icon: "computer-line"
+  },
 ];
 
 export default hardSkills;
