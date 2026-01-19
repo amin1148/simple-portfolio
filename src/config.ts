@@ -1,5 +1,5 @@
 export const SITE = {
-    website: "https://rafiul-amin.github.io", // You will update this after deployment
+    website: "https://amin1148.github.io", // You will update this after deployment
     title: "Rafiul Amin | Portfolio",
     description: "Portfolio of Rafiul Amin - Assistant Merchandiser & Web Developer.",
     tags: ["Merchandiser", "Rafiul Amin", "Resume"],
