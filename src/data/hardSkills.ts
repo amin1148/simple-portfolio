@@ -10,7 +10,7 @@ const hardSkills: HardSkill[] = [
   {
     name: "Garment Merchandising",
     description: "Expertise in Tech Packs, T&A, Costing, Fabric Consumption, Lab-Dips, and end-to-end Production.",
-    icon: "astro_dark", // Reverted to the default icon so the build passes
+    icon: "astro_dark", // Safe default
     category: "Garment Tech"
   },
 
@@ -18,13 +18,13 @@ const hardSkills: HardSkill[] = [
   {
     name: "Microsoft Excel",
     description: "Advanced proficiency for Quantity Breakdowns, Packing Lists, and Cost Sheets.",
-    icon: "file-excel-2-line",
+    icon: "astro_dark", // Changed to safe default to fix build error
     category: "Software & Tools"
   },
   {
     name: "ERP Systems",
     description: "Experience managing order lifecycles and inventory within Enterprise Resource Planning software.",
-    icon: "computer-line",
+    icon: "astro_dark", // Changed to safe default to fix build error
     category: "Software & Tools"
   }
 ];
