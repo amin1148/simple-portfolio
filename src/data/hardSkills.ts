@@ -13,13 +13,11 @@ const hardSkills: HardSkill[] = [
   {
     name: "Microsoft Excel",
     description: "Advanced proficiency for Quantity Breakdowns, Packing Lists, and Cost Sheets.",
-    category: "Software & Tools",
     icon: "file-excel-2-line"
   },
   {
     name: "ERP Systems",
     description: "Experience managing order lifecycles and inventory within Enterprise Resource Planning software.",
-    category: "Software & Tools",
     icon: "computer-line"
   },
 ];
