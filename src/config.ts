@@ -1,48 +1,44 @@
 export const SITE = {
-    website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
-    description: "A simple but beautiful portfolio created with Astro",
-    tags: ["portfolio", "Resume cv", "Astro"],
+    website: "https://rafiul-amin.github.io", // You will update this after deployment
+    title: "Rafiul Amin | Portfolio",
+    description: "Portfolio of Rafiul Amin - Assistant Merchandiser & Web Developer.",
+    tags: ["Merchandiser", "Rafiul Amin", "Resume"],
     ogImage: "/og-image.webp",
     logo: "logo",
-    logoText: "Portfolio",
+    logoText: "Rafiul",
     lang: "en",
     favicon: "/favicon.png",
-    repository: "https://github.com/vito8916/simple-portfolio.git",
-    author: "Victor Alvarado",
-    profile: "https://victoralvarado.dev/",
+    repository: "https://github.com/rafiul-amin/portfolio", // Update this with your actual repo link later
+    author: "Rafiul Amin",
+    profile: "https://www.linkedin.com/in/rafiul-amin-550203380",
 }
 
 export const ME = {
-    name: "VicBox Dot Dev",
-    profession: "Software Engineer | Full Stack Developer",
-    profileImage: "pp2.png",
+    name: "Rafiul Amin",
+    profession: "Assistant Merchandiser",
+    profileImage: "pp2.png", // Make sure your photo is named this in the public folder
     profileFacts: [
         {
-            value: 10,
-            description: "Years of Experience"
+            value: 1,
+            description: "Year Apparel Exp" // Internship + Current Job
         },
         {
-            value: 5,
-            description: "Completed Projects"
-        },
-        {
-            value: 4,
-            description: "Satisfied Clients"
+            value: 2,
+            description: "Industry Sectors" // Garments & Tech
         }
     ],
     contactInfo: {
-        email: "vicbox.dev@vicbox.dev",
-        linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
+        email: "ab.rafi.80881663@gmail.com",
+        linkedin: "https://www.linkedin.com/in/rafiul-amin-550203380",
         resumeDoc: "resume.pdf",
     },
-    aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " + "sharing knowledge with others.",
+    aboutMe: "I am a versatile professional blending the precision of Garment Merchandising. Currently working as an Assistant Merchandiser at Marma Composite Ltd (handling ALDI & KIK)",
 }
 
 export const SOCIALS = [
     {
         name: "Twitter",
-        url: "https://twitter.com/vicbox.dev",
+        url: "https://x.com/Rafi_ul_amin",
         icon: "twitter-x-fill",
         show: true
     },
@@ -58,22 +54,5 @@ export const SOCIALS = [
         icon: "instagram-fill",
         show: true
     },
-    {
-        name: "Youtube",
-        url: "https://www.youtube.com/vicbox.dev",
-        icon: "youtube-fill",
-        show: true
-    },
-    {
-        name: "TikTok",
-        url: "https://tiktok.com/vicbox.dev",
-        icon: "tik-fill",
-        show: false
-    },
-    {
-        name: "GitHub",
-        url: "https://github.com/vicbox.dev",
-        icon: "github-fill",
-        show: true
-    }
+   
 ]
