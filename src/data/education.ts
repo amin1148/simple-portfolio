@@ -16,7 +16,7 @@ const  education: Education[] = [
         school: "Daffodil International University",
         location: "Bangladesh",
         description: "Apparel Manufacturing & Technology",
-        currentUni: False,
+        currentUni: false,
     },
     {
         title: "Higher Secondary Certificate",
