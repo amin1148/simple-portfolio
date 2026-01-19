@@ -6,35 +6,35 @@ interface SoftSkill {
 const softSkills: SoftSkill[] = [
   {
     name: "Problem Solving",
-    icon: "tools-fill"
+    icon: "astro_dark" // Placeholder until you upload custom icons
   },
   {
     name: "Communication",
-    icon: "message-2-fill"
+    icon: "astro_dark"
   },
   {
-    name: "Negotiation", // Crucial for costing and timelines
-    icon: "shake-hands-fill"
+    name: "Negotiation",
+    icon: "astro_dark"
   },
   {
     name: "Time Management",
-    icon: "time-fill"
+    icon: "astro_dark"
   },
   {
     name: "Team Player",
-    icon: "group-fill"
+    icon: "astro_dark"
   },
   {
-    name: "Attention to Detail", // Vital for Tech Packs and Quality
-    icon: "eye-fill"
+    name: "Attention to Detail",
+    icon: "astro_dark"
   },
   {
-    name: "Adaptability", // For sudden changes in trends or production issues
-    icon: "refresh-fill"
+    name: "Adaptability",
+    icon: "astro_dark"
   },
   {
     name: "Email Proficiency",
-    icon: "mail-send-fill" // Updated icon name to be more specific
+    icon: "astro_dark"
   }
 ];
 
