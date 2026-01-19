@@ -38,4 +38,4 @@ const  education: Education[] = [
     },
 ];
 
-export default education;
+export default education; 
