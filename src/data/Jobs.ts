@@ -44,31 +44,31 @@ interface WorkExperience {
  */
 const workExperience:WorkExperience[] = [
     {
-        title: "Frontend Developer",
-        startDate: "2020-03-10",
-        company: "Google Inc",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NextJs, and Tailwind CSS.",
-        goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
-        ],
-        currentJob: true,
-    },
+    title: "Assistant Merchandiser", 
+    startDate: "2025-02-06",
+    company: "Marma Composite Ltd",
+    location: "Ashulia, Dhaka",
+    description: "Key account management for Knit Garments, specifically handling European buyers (ALDI, KIK).",
+    goals: [
+        "Coordinate sample stages (Lab-Dip, Strike-off, PP Sample) to ensure timely buyer approvals.",
+        "Assist in preparing Costing sheets, Consumption bookings, and T&A plans.",
+        "Monitor daily production status across Knitting, Dyeing, and Sewing to prevent shipment delays."
+    ],
+    currentJob: true,
+},
     {
-        title: "Software Engineer",
-        startDate: "2018-03-10",
-        endDate: "2020-03-10",
-        company: "Company Name",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-        goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
-        ],
-        currentJob: false,
-    },
+    title: "Industrial Trainee", 
+    startDate: "2025-01-01",
+    endDate: "2025-02-05", // Ends right before your new job starts
+    company: "Apex Holdings Ltd",
+    location: "Shafipur, Gazipur", // Corrected spelling from 'Shofipur'
+    description: "Intensive industrial attachment at one of Bangladesh's leading vertical composite factories.",
+    goals: [
+        "Gained practical exposure to the full vertical production cycle: Knitting, Dyeing, Finishing, and Sewing.",
+        "Analyzed production floor layout, line balancing, and quality assurance workflows.",
+        "Studied department-wise operations including Yarn Store, Cutting, and Merchandising coordination."
+    ],
+    currentJob: false,
+},
 ];
 export default workExperience;
