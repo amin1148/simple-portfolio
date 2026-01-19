@@ -16,7 +16,7 @@ export const SITE = {
 export const ME = {
     name: "Rafiul Amin",
     profession: "Assistant Merchandiser",
-    profileImage: "pp2.png", // Make sure your photo is named this in the public folder
+    profileImage: "pp2.jpg", // Make sure your photo is named this in the public folder
     profileFacts: [
         {
             value: 1,
