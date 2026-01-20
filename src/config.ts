@@ -1,7 +1,7 @@
 export const SITE = {
     website: "https://amin1148.github.io", // You will update this after deployment
     title: "Rafiul Amin | Portfolio",
-    description: "Portfolio of Rafiul Amin - Assistant Merchandiser & Web Developer.",
+    description: "Portfolio of Rafiul Amin - Assistant Merchandiser",
     tags: ["Merchandiser", "Rafiul Amin", "Resume"],
     ogImage: "/og-image.webp",
     logo: "logo",
@@ -28,7 +28,7 @@ export const ME = {
         }
     ],
     contactInfo: {
-        email: "ab.rafi.80881663@gmail.com",
+        email: "ab.rafi.8088@gmail.com",
         linkedin: "https://www.linkedin.com/in/rafiul-amin-550203380",
         resumeDoc: "resume.pdf",
     },
@@ -44,13 +44,13 @@ export const SOCIALS = [
     },
     {
         name: "Facebook",
-        url: "https://www.facebook.com/vicbox.dev",
+        url: "https://www.facebook.com/",
         icon: "facebook-fill",
         show: false
     },
     {
         name: "Instagram",
-        url: "https://www.instagram.com/vicbox.dev",
+        url: "https://www.instagram.com",
         icon: "instagram-fill",
         show: true
     },
